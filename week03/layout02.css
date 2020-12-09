@@ -10,7 +10,7 @@ body {
 
 header{
 
-  background-color: #fff2e6;
+  background-color: #99ffcc;
 
   width: 100%;
 
@@ -22,7 +22,7 @@ header{
 
 nav {
 
-  background-color: #ffe6cc;
+  background-color: #99ff99;
 
   width: 100%;
 
@@ -44,7 +44,7 @@ main{
 
 section {
 
-  background-color: #ffcc99;
+  background-color: #66ffff;
 
   height: 30vh;
 
@@ -54,7 +54,7 @@ section {
 
 article {
 
-  background-color: #ffb366;
+  background-color: #66ccff;
 
   height: 30vh;
 
@@ -64,7 +64,7 @@ article {
 
 aside {
 
-  background-color: #ff9933;
+  background-color: #ccccff;
 
   width: 35%;
 
@@ -78,7 +78,7 @@ aside {
 
 footer {
 
-  background-color: #ff8000;
+  background-color: #ffccff;
 
   width: 100%;
 
